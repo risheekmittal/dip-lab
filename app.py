@@ -54,7 +54,7 @@ if st.button("Change Color"):
   result=import_and_predict(image)
   
 if st.button("About"):
-  st.header(" Priyanshu Jain")
+  st.header(" Risheek Mittal")
   st.subheader("C Section ,PIET")
 html_temp = """
    <div class="" style="background-color:orange;" >
